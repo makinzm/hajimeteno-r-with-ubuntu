@@ -6,3 +6,4 @@
   - `sudo apt install ./***.deb`
   - `rstudio`
 
+![rstudio picture](images/sample_rstudio_image.png)
